@@ -1,5 +1,5 @@
 version: 0.0
 os: ubuntu
 files:
-  - source: /index.html
-    destination: /var/www/html/
+  - source: ./demo.html
+    destination: /
